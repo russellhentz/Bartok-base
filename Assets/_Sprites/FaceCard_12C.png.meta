@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: d86c46d6378144162964786d621fb0ca
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: FaceCard_12C
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -25,7 +24,7 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: -1
     wrapMode: 1

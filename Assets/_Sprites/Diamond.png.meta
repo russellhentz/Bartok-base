@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: f8c2745f3b53149c595d8fde43185468
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Diamond
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -25,7 +24,7 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: -1
     wrapMode: 1
